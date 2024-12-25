@@ -4,7 +4,6 @@
 Provides insights into churn rates, customer demographics, subscription types, and payment methods.
 Tools and Technologies used: Databricks, PowerBI, ML pipeline, Cross Validation, Parameter Grid (Hyperparameter tuning), Logistic Regression, Decision Trees, Seaborn
 
-![Dashboard1](Churn_Analysis_Dashboard1.PNG)
 ![Dashboard2](Churn_Analysis_Dashboard2.PNG)
 ![Dashboard3](Churn_Analysis_Dashboard3.PNG)
 
