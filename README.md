@@ -1,6 +1,5 @@
 # Churn_Analysis
 
-# Churn Analysis Dashboard
 
 Provides insights into churn rates, customer demographics, subscription types, and payment methods.
 Tools and Technologies used: Databricks, PowerBI, ML pipeline, Cross Validation, Parameter Grid (Hyperparameter tuning), Logistic Regression, Decision Trees, Seaborn
